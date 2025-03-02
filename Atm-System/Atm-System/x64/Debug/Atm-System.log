@@ -1,0 +1,4 @@
+﻿  Atm-System.cpp
+C:\Users\mkiss\OneDrive\Bureau\ATM-System\Atm-System\Atm-System.cpp(42,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\mkiss\OneDrive\Bureau\ATM-System\Atm-System\Atm-System.cpp(203,1): warning C4715: 'DepositBalanceToClientByAccountNumber': not all control paths return a value
+  Atm-System.vcxproj -> C:\Users\mkiss\OneDrive\Bureau\ATM-System\Atm-System\x64\Debug\Atm-System.exe
